@@ -19,7 +19,7 @@ Features
 - Everybody can test the rockmeter which is web based application on Jmeter.
 - If you have a question, please send e-mail to me. 
 - E-mail address is rockmeter@rockplace.co.kr.
-- You can download on sourceforge.net site. 
+- You can download on sourceforge.net site-https://sourceforge.net/projects/rockmeter-. 
 - We will upload the rockmeter source file on the site as soon as possible.
 
 # Packages
